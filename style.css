@@ -1,0 +1,16 @@
+html{
+    cursor: all-scroll;
+}
+
+
+body{
+    
+    font-size: 90px;
+    font-family: arial;
+    color: #fff;
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Pemandangan_Dua_Gunung.png/1200px-Pemandangan_Dua_Gunung.png');
+    background-size: cover;
+    padding: 250px 500px;
+    text-align: center;
+    
+}
